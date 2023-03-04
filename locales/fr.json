@@ -31,7 +31,8 @@
         "secured_by": "Sécurisé par Snipcart",
         "summary": "Sommaire",
         "empty": "Votre panier est vide",
-        "invoice_number": "Numéro de la facture"
+        "invoice_number": "Numéro de la facture",
+        "view_detailed_cart": "Voir le panier détaillé"
     },
     "order": {
         "loading": "Chargement des détails de votre commande…"
@@ -169,6 +170,7 @@
         "promocode_isnt_applicable": "Cette promotion n'est pas applicable",
         "promo_code_is_expired": "Cette promotion a expiré",
         "stringEmpty": "Ce champ est requis",
+        "emailEmpty": "Ce champ est requis",
         "required": "Ce champ est requis",
         "invalid_expiry_year_past": "La carte est expirée",
         "email": "Veuillez spécifier une adresse courriel valide",
